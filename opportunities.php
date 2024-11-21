@@ -18,42 +18,42 @@
 			              					<hr>
 							            <form class="row g-3" method="POST" action="success.php">
 							                <div class="col-md-6">
-							                	<input type="text" class="form-control" placeholder="firstName" name="firstName">
+							                	<input type="text" class="form-control" placeholder="First Name" name="firstName">
 							                </div>
 							                <div class="col-md-6">
-							                  	<input type="text" class="form-control" placeholder="secondName" name="secondName">
+							                  	<input type="text" class="form-control" placeholder="Second Name" name="secondName">
 							                </div>
 							                <div class="col-md-6">
-							                  	<input type="text" class="form-control" placeholder="firstLastName" name="firstLastName">
+							                  	<input type="text" class="form-control" placeholder="First Last Name" name="firstLastName">
 							                </div>
 							                <div class="col-md-6">
-							                  	<input type="text" class="form-control" placeholder="secondLastName" name="secondLastName">
+							                  	<input type="text" class="form-control" placeholder="Second Last Name" name="secondLastName">
 							                </div>
 							                <div class="col-md-3">
-							                  	<input type="text" class="form-control" placeholder="country" name="country">
+							                  	<input type="text" class="form-control" placeholder="Country" name="country">
 							                </div>
 							                <div class="col-md-3">
 								                <select id="inputState" class="form-select" name="city">
-								                	<option selected>selectCity</option>
+								                	<option selected>Select City</option>
 								                    <option value="1">Cali</option>
 								                    <option value="2">Medellin</option>
 								                    <option value="3">Bogota?</option>
 								                </select>
 							                </div>
 							                <div class="col-md-3">
-							                  	<input type="text" class="form-control" placeholder="mail" name="mail">
+							                  	<input type="text" class="form-control" placeholder="Mail" name="mail">
 							                </div>
 							                <div class="col-md-3">
-							                  	<input type="text" class="form-control" placeholder="phoneNumber" name="phoneNumber">
+							                  	<input type="text" class="form-control" placeholder="Phone Number" name="phoneNumber">
 							                </div>
-							                <div class="col-md-12">Documentacion</div>
+							                <div class="col-md-12">Documentation</div>
 							                <hr>
 							                <div class="col-md-3">
-							                	<label>choose type of ID</label>
+							                	<label>Choose type of ID</label>
 							                </div>
 							                <div class="col-md-2">
 								                <select id="inputState" class="form-select" name="typeIdentification">
-								                	<option selected>typeIdentification</option>
+								                	<option selected>Type of ID</option>
 								                    <option value="1">Cedula de Ciudadania</option>
 								                    <option value="2">Documento de Extranjeria</option>
 								                    <option value="3">Pasaporte</option>
@@ -61,11 +61,11 @@
 								                </select>
 							                </div>
 							                <div class="col-md-3">
-							                	<label>choose english's Level</label>
+							                	<label>Choose english's Level</label>
 							                </div>
 							                <div class="col-md-2">
 								                <select id="inputState" class="form-select" name="level">
-								                	<option selected>Level English</option>
+								                	<option selected>English Level</option>
 								                    <option value="1">Native C2</option>
 								                    <option value="2">Advanced B2/C1</option>
 								                    <option value="3">Intermedium B1</option>
@@ -84,43 +84,43 @@
 							                  	<input type="file" class="form-control" placeholder="levelEnglish" name="levelPDF">
 							                </div>
 							                <div class="col-md-3">
-							                	<label>photo</label>
+							                	<label>Photo</label>
 							                </div>
 							                <div class="col-md-9">
 							                  	<input type="file" class="form-control" placeholder="photo" name="photo">
 							                </div>
 							                <div class="col-md-3">
-							                	<label>curriculum</label>
+							                	<label>Curriculum</label>
 							                </div>
 							                <div class="col-md-9">
 							                  	<input type="file" class="form-control" placeholder="curriculum" name="curriculum">
 							                </div>
 							                <div class="col-md-3">
-							                	<label>study</label>
+							                	<label>Study</label>
 							                </div>
 							                <div class="col-md-9">
 							                  	<input type="file" class="form-control" placeholder="study" name="study">
 							                </div>
 							                <div class="col-md-3">
-							                	<label>bank</label>
+							                	<label>Bank</label>
 							                </div>
 							                <div class="col-md-9">
 							                  	<input type="file" class="form-control" placeholder="bank" name="bank">
 							                </div>	
 							                <div class="col-md-3">
-							                	<label>eps</label>
+							                	<label>EPS</label>
 							                </div>
 							                <div class="col-md-9">
 							                  	<input type="file" class="form-control" placeholder="eps" name="eps">
 							                </div>	
 							                <div class="col-md-3">
-							                	<label>pension</label>
+							                	<label>Pension</label>
 							                </div>
 							                <div class="col-md-9">
 							                  	<input type="file" class="form-control" placeholder="pension" name="pension">
 							                </div>	
 							                <div class="col-md-3">
-							                	<label>procard</label>
+							                	<label>Procard</label>
 							                </div>	
 							                <div class="col-md-9">
 							                  	<input type="file" class="form-control" placeholder="procard" name="procard">
