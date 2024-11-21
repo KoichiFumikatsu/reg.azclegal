@@ -18,10 +18,10 @@
                 <label for="itemCategory" class="form-label">Categoría</label>
                 <select id="itemCategory" class="form-select" name="itemCategory" required>
                     <option selected>Seleccionar Categoría</option>
-                    <option value="electronics">Electrónica</option>
-                    <option value="clothing">Ropa</option>
-                    <option value="furniture">Muebles</option>
-                    <option value="others">Otros</option>
+                    <option value="equipos">Equipos</option>
+                    <option value="cargadores">Cargadores</option>
+                    <option value="perifericos">Perifericos</option>
+                    <option value="otros">Otros</option>
                 </select>
             </div>
             <div class="col-md-6">
